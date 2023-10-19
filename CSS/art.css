@@ -1,0 +1,7 @@
+.articles {
+  width:100%;
+}
+
+.articles .container {
+  justify-content: center;
+}
